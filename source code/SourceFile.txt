@@ -1,1 +1,2 @@
-This is the code for version 1
+#define BINVERSION hello 
+#define STRVERSION "hello" 
