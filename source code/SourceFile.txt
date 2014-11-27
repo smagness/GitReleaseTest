@@ -1,2 +1,2 @@
-#define BINVERSION hello7 
-#define STRVERSION "hello7" 
+#define BINVERSION hello8 
+#define STRVERSION "hello8" 
